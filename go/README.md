@@ -23,20 +23,20 @@ Go is an open source programming language created by Google in 2009. The main te
 
 Always include the package main at the start. The main() function is the entry point of the program. For example you want to call functions inside this. It is similar to Java's main method. 
 
-![](https://github.com/Thepnathi/Workshop/tree/master/go/resource/images/screenshots/f1.png?raw=true)
+![alt](https://github.com/Thepnathi/Workshop/blob/master/go/resource/images/screenshots/f1.png?raw=true)
 
 ### Variables 
 
 To declare a variable with a type. There are many types you can choose from.
 
-![](https://github.com/Thepnathi/Workshop/tree/master/go/resource/images/screenshots/f2.png?raw=true)
+![alt](https://github.com/Thepnathi/Workshop/blob/master/go/resource/images/screenshots/f2.png?raw=true)
 
 You can also declare variable without type with the operator __:=__, the compiler will automatically guess the type for you.
 
-![](https://github.com/Thepnathi/Workshop/tree/master/go/resource/images/screenshots/f3.png?raw=true)
+![alt](https://github.com/Thepnathi/Workshop/blob/master/go/resource/images/screenshots/f3.png?raw=true)
 
 You can declare costant with **const** keyword
 
-![](https://github.com/Thepnathi/Workshop/tree/master/go/resource/images/screenshots/f4.png?raw=true)
+![alt](https://github.com/Thepnathi/Workshop/blob/master/go/resource/images/screenshots/f4.png?raw=true)
 
 
