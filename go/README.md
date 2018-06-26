@@ -23,7 +23,7 @@ Go is an open source programming language created by Google in 2009. The main te
 
 Always include the package main at the start. The main() function is the entry point of the program. For example you want to call functions inside this. It is similar to Java's main method. 
 
-![][resource/images/screenshots/f1.png]
+![][./resource/images/screenshots/f1.png]
 
 ### Variables 
 
