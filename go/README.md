@@ -64,9 +64,9 @@ The **map** is a data structure which contains a key and a corresponding value. 
 
 <img src="https://github.com/LivHackSoc/Workshop/blob/master/go/resource/images/screenshots/f9.png" height="250px">
 
-The **witch statement**.
+The **switch statement**.
 
-<img src="https://github.com/LivHackSoc/Workshop/blob/master/go/resource/images/screenshots/f10.png" height="250px">
+<img src="https://github.com/LivHackSoc/Workshop/blob/master/go/resource/images/screenshots/f10.png" height="300px">
 
 ## Loops 
 
@@ -84,6 +84,6 @@ The **range** keyword allow us to loop through every item in a data structure. I
 <br />
 You can also do the same on a **map**, where you loop through each key and the corresponding value.
 
-<img src="https://github.com/LivHackSoc/Workshop/blob/master/go/resource/images/screenshots/f14.png" height="250px">
+<img src="https://github.com/LivHackSoc/Workshop/blob/master/go/resource/images/screenshots/f14.png" height="300px">
 
-<img src="https://github.com/LivHackSoc/Workshop/blob/master/go/resource/images/screenshots/f15.png" height="250px">
+<img src="https://github.com/LivHackSoc/Workshop/blob/master/go/resource/images/screenshots/f15.png" height="300px">
