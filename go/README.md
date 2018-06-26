@@ -1,6 +1,6 @@
 # Go Programming Language
 
-![Go gopher is the mascot of Golang][resource/images/mascot.png]
+![Go gopher is the mascot of Golang][https://github.com/Thepnathi/Workshop/tree/master/go/resource/images/mascot.png]
 
 Go is an open source programming language created by Google in 2009. The main team consists of people who was part of the C programming language and Unix development. Positive aspect of Go includes:
 
@@ -23,20 +23,20 @@ Go is an open source programming language created by Google in 2009. The main te
 
 Always include the package main at the start. The main() function is the entry point of the program. For example you want to call functions inside this. It is similar to Java's main method. 
 
-![][./resource/images/screenshots/f1.png]
+![][https://github.com/Thepnathi/Workshop/tree/master/go/resource/screenshots/f1.png]
 
 ### Variables 
 
 To declare a variable with a type. There are many types you can choose from.
 
-![][resource/images/screenshots/f2.png]
+![][https://github.com/Thepnathi/Workshop/tree/master/go/resource/screenshots/f2.png]
 
 You can also declare variable without type with the operator __:=__, the compiler will automatically guess the type for you.
 
-![][resource/images/screenshots/f3.png]
+![][https://github.com/Thepnathi/Workshop/tree/master/go/resource/screenshots/f3.png]
 
 You can declare costant with **const** keyword
 
-![][resource/images/screenshots/f4.png]
+![][https://github.com/Thepnathi/Workshop/tree/master/go/resource/screenshots/f4.png]
 
 

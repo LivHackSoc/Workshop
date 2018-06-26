@@ -11,9 +11,6 @@ func main() {
 	// ======================
 	// 1. Variable declaration
 
-	const URL string = "www.google.com"
-	const secretKey int = 1828287322713129
-
 	const WEBSITE string = "www.fsc.com"
 	const superSmall float64 = 0.012345
 	var number int = 123
